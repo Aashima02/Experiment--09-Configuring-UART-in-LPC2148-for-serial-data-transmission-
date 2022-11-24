@@ -1,7 +1,9 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
 Name :	Aashima Nazreen Sayeed S
+
 Roll no : 212221240002
+
 Date of experiment : 24/11/2022
 
 ## Configuring UART in LPC2148 for serial data transmission 
